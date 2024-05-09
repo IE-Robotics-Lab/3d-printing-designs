@@ -3,6 +3,6 @@
 This respository serves as a tracking of STL files, for designs created and used within the lab.
 | Name             | Description                          | Image                           | Download File               |
 |------------------|--------------------------------------|---------------------------------|-----------------------------|
-| Universal Marker     | STL file for creating arbitrary rigid bodies | ![Image](/images/universal_marker.jpg)         | [Download](files/optitrack/Universal_Marker_3.stl)     |
+| Universal Marker     | STL file for creating arbitrary rigid bodies | <img src="images/universal_marker.png" width="100">          | [Download](files/optitrack/Universal_Marker_3.stl)     |
 
 
