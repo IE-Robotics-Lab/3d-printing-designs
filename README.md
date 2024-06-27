@@ -13,3 +13,4 @@ This respository serves as a tracking of STL files, for designs created and used
 | DMP A6 <-> tross | STL file peace that attch from tross to case. Used as support DMP A6 case | <img src="images/tross_support_speaker.png" width="100"> | [Download](files/truss_supports/tross_support_speaker.stl) | |
 | DMP A6 left half case | STL file left half of support case for DMP A6 | <img src="images/tross_case_left_speaker.png" width="100"> | [Download](files/truss_supports/tross_case_left_speaker.stl) | |
 | DMP A6 right half case | STL file right half of support case for DMP A6  | <img src="images/tross_case_right_speaker.png" width="100"> | [Download](files/truss_supports/tross_case_right_speaker.stl) | |
+| Case connectors | STL file for connectors to increase overall case strenght  | <img src="images/tross_speacker_connections.png" width="100"> | [Download](files/truss_supports/tross_speacker_connections.stl) | |
