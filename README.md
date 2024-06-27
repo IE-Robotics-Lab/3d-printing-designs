@@ -15,3 +15,4 @@ This respository serves as a tracking of STL files, for designs created and used
 | DMP A6 right half case | STL file right half of support case for DMP A6  | <img src="images/tross_case_right_speaker.png" width="100"> | [Download](files/truss_supports/tross_case_right_speaker.stl) | |
 | Case connectors | STL file for connectors to increase overall case strenght  | <img src="images/tross_speacker_connections.png" width="100"> | [Download](files/truss_supports/tross_speacker_connections.stl) | |
 | Switch for servo | STL of case for servo motor, to turn on/off DMP A6  | <img src="images/switch_servo.png" width="100"> | [Download](files/truss_supports/switch_servo.stl) | [link to repo](https://github.com/IE-Robotics-Lab/servo_switch_DMPA6.git) |
+| "Kangaroo" | STL file of design behind creen to keep in place laptop  | <img src="images/kangaroo.png" width="100"> | [Download](files/kangaroo/LaptopSupporter.stl) | |
